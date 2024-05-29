@@ -1,7 +1,6 @@
 def remove_spaces(string):
     return string.replace(" ", "")
 
-# Examples:
 input1 = "superstar"
 input2 = "semi pro"
 input3 = "word class"
